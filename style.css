@@ -1,0 +1,13 @@
+body{font-family: sans-serif, font-weight:300; background-color: rgb(241, 241, 247)}
+
+h1{ color: rgb(8, 122, 103); text-align:center; font-size: 250%
+
+}
+h2{color: rgb(177, 174, 14); text-align: center}
+p{color: rgb(45, 131, 109);font-size: 120%; font-size: 140%;}
+th{color:rgb(45, 131, 109)}
+tr{color:rgb(44, 168, 44); font-size: 120%}
+table{color: rgb(99, 34, 48)}
+#le:link{color:rgb(82, 185, 226)}
+#le:hover{color:red}
+#le:visited{color:brown}
